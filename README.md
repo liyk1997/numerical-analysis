@@ -29,7 +29,7 @@
 
    
 
-   ![](.\img\1574433845029.png)
+   ![插值结果](https://github.com/lyk10/numerical-analysis/blob/master/img/1574433845029.png)
 
 ****
 
@@ -49,7 +49,7 @@
 
     
 
-    ![1574434937629](.\img\1574434937629.png)
+    ![拟合结果](https://github.com/lyk10/numerical-analysis/blob/master/img/1574434937629.png)
 
 ****
 
